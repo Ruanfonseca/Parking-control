@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.api.parkingcontrol"},{"l":"com.api.parkingcontrol.controllers"},{"l":"com.api.parkingcontrol.DTO"},{"l":"com.api.parkingcontrol.models"},{"l":"com.api.parkingcontrol.repositories"},{"l":"com.api.parkingcontrol.services"}];updateSearchResults();

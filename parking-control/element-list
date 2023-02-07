@@ -1,0 +1,6 @@
+com.api.parkingcontrol
+com.api.parkingcontrol.controllers
+com.api.parkingcontrol.DTO
+com.api.parkingcontrol.models
+com.api.parkingcontrol.repositories
+com.api.parkingcontrol.services
